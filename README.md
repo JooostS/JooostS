@@ -11,7 +11,7 @@ current_job: "Student Software Developer"
 
 education:
   - "Collage Software Developer"
-  - "Self-Taught Developer and Designer"
+  - "Self-Taught the extra stuff"
 
 company: "None"
           
