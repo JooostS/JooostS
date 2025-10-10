@@ -73,10 +73,10 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45/>          
 </p>
 
-<br>
 <hr>
+<h2> 📱&nbsp;Socials</h2>
 
-<p align="center" dir="auto">
+<p align="center">
 <a href="https://www.instagram.com/jooost.s/" rel="nofollow">
   <img height="50" src="https://github.com/user-attachments/assets/aa90b277-acc0-47fb-9e57-4c78ad017000" style="max-width: 100%;">
 </a>
