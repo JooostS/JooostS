@@ -52,8 +52,8 @@ hobbies:
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joostschreuders&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="joostschreuders" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joostschreuders&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=20&icon_color=50fa7b" alt="my Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jooosts&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Jooosts" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jooosts&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=20&icon_color=50fa7b" alt="my Github Stats"/>
 </p>
                          
 <br>
