@@ -33,6 +33,7 @@ currently_learning:
   - "C#"
   - "API's"
   - "Javascript"
+  - "Python"
 
 goals:
   - "Finnish college"
