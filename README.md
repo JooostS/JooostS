@@ -17,7 +17,7 @@ education:
   - "Collage Software Developer"
   - "Self-Taught the extra stuff"
 
-company: "None"
+company: "Intern at Unica"
           
 fields_of_interests:
   - "Web Development"
