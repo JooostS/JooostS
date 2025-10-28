@@ -37,7 +37,7 @@ currently_learning:
 
 goals:
   - "Finnish college"
-  - "Using raspberry pi 5"
+  - "Making home server on mini-pc"
 
 hobbies:
   - "Gaming"
