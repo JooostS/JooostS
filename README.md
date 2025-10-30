@@ -14,7 +14,7 @@ located_in: "Zuid-Holland, The Netherlands"
 current_job: "Student Software Developer"
 
 education:
-  - "Collage Software Developer"
+  - "Collage Software Developer @ Hoornbeeck, Gouda"
   - "Self-Taught the extra stuff"
 
 company: "Intern at Unica"
