@@ -10,7 +10,7 @@ education:
   - "Collage Software Developer @ Hoornbeeck, Gouda"
   - "Self-Taught the extra stuff"
 
-company: "Nothing :("
+company: "Nowhere :("
           
 fields_of_interests:
   - "Web Development"
